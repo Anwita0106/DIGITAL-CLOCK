@@ -8,6 +8,7 @@ This digital clock was built using HTML, CSS, and JavaScript. It shows the curre
 
 ✅ Real-time hour, minute, and second updates✅ AM/PM format✅ Minimal, customizable design
 
+
 🚀 Getting Started
 
 To run this project locally:
@@ -22,10 +23,8 @@ cd digital-clock
 
 3️⃣ Open index.html in your browser.
 
+
 🎨 Customize
 
 Edit styles.css for different themes or script.js to add features like date or 24-hour format.
 
-📄 License
-
-This project is open source under the MIT License.
