@@ -15,6 +15,8 @@ This digital clock was built using HTML, CSS, and JavaScript. It shows the curre
 
 
 
+
+
 🚀 Getting Started
 To run this project locally:
 
@@ -27,6 +29,8 @@ cd digital-clock
 
 
 3️⃣ Open index.html in your browser.
+
+
 
 
 
