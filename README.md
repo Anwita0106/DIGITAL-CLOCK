@@ -4,8 +4,11 @@ Digital Clock
 This digital clock was built using HTML, CSS, and JavaScript. It shows the current time with smooth updates and a clean interface.
 
 ⭐ Features
+✅ Real-time hour, minute, and second updates
 
-✅ Real-time hour, minute, and second updates✅ AM/PM format✅ Minimal, customizable design
+✅ AM/PM format
+
+✅ Minimal, customizable design
 
 
 🚀 Getting Started
@@ -23,5 +26,6 @@ cd digital-clock
 
 
 🎨 Customize
+
 Edit styles.css for different themes or script.js to add features like date or 24-hour format.
 
